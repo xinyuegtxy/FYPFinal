@@ -1,6 +1,3 @@
-Authored by : 	Toh Jun Hao
-Email:		jhtoh1@e.ntu.edu.sg
-Last Modified:	1 April 2013
 
 On Local Code Setup:
 1)	Requirements:	- Install Python 2.7
